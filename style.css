@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    display: grid;
+    float: left;
+    background-color: #343a40;
+}
+
+header .navbar {
+    width: 100%;
+    margin-left: 50px;
+}
+
+header .nav-item {
+    display: grid;
+    gap: 30px;
+}
